@@ -1,0 +1,9 @@
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Registry_Colors\Registry_Colors\bin\Debug\Registry_Colors.exe
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Registry_Colors\Registry_Colors\bin\Debug\Registry_Colors.pdb
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Registry_Colors\Registry_Colors\obj\Debug\Registry_Colors.csproj.AssemblyReference.cache
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Registry_Colors\Registry_Colors\obj\Debug\Registry_Colors.Form1.resources
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Registry_Colors\Registry_Colors\obj\Debug\Registry_Colors.Properties.Resources.resources
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Registry_Colors\Registry_Colors\obj\Debug\Registry_Colors.csproj.GenerateResource.cache
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Registry_Colors\Registry_Colors\obj\Debug\Registry_Colors.csproj.CoreCompileInputs.cache
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Registry_Colors\Registry_Colors\obj\Debug\Registry_Colors.exe
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\Registry_Colors\Registry_Colors\obj\Debug\Registry_Colors.pdb
